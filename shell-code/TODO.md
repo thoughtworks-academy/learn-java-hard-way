@@ -1,3 +1,0 @@
-- 多例模式 Multiton_pattern
-- Registry
-- Container
