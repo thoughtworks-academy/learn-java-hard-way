@@ -1,6 +1,6 @@
 package com.thoughtworks.academy.design.pattern.tutorial.structural.adapter;
 
-import com.thoughtworks.academy.design.pattern.tutorial.adapter.client.Client;
+import com.thoughtworks.academy.design.pattern.tutorial.structural.adapter.client.Client;
 import org.junit.Test;
 
 public class ClassAdapterTest {

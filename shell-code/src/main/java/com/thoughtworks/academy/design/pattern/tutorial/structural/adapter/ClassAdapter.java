@@ -1,7 +1,6 @@
 package com.thoughtworks.academy.design.pattern.tutorial.structural.adapter;
 
-import com.thoughtworks.academy.design.pattern.tutorial.adapter.AAdaptee;
-import com.thoughtworks.academy.design.pattern.tutorial.adapter.client.Target;
+import com.thoughtworks.academy.design.pattern.tutorial.structural.adapter.client.Target;
 
 public class ClassAdapter extends AAdaptee implements Target{
     @Override

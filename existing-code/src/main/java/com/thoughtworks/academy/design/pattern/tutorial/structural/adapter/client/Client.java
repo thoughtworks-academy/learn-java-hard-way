@@ -1,4 +1,4 @@
-package com.thoughtworks.academy.design.pattern.tutorial.adapter.client;
+package com.thoughtworks.academy.design.pattern.tutorial.structural.adapter.client;
 
 public class Client {
     public void request(Target target) {

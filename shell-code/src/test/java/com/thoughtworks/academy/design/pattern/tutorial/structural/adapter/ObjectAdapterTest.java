@@ -1,8 +1,7 @@
 package com.thoughtworks.academy.design.pattern.tutorial.structural.adapter;
 
-import com.thoughtworks.academy.design.pattern.tutorial.adapter.AAdaptee;
-import com.thoughtworks.academy.design.pattern.tutorial.adapter.client.Client;
-import com.thoughtworks.academy.design.pattern.tutorial.adapter.client.Target;
+import com.thoughtworks.academy.design.pattern.tutorial.structural.adapter.client.Client;
+import com.thoughtworks.academy.design.pattern.tutorial.structural.adapter.client.Target;
 import org.junit.Before;
 import org.junit.Test;
 

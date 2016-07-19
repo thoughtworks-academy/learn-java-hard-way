@@ -1,4 +1,4 @@
-package com.thoughtworks.academy.design.pattern.tutorial.adapter;
+package com.thoughtworks.academy.design.pattern.tutorial.structural.adapter;
 
 import java.util.Map;
 
